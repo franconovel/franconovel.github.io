@@ -1,6 +1,7 @@
 ---
 layout: post
 author: noscr33n
+title: Bienvenidos a mi Blog
 ---
 Haciendo uso de Jekyll, un generador de sitios estaticos cuyo uso se ha extendido a lo largo de GitHub Pages, he creado este humilde blog donde planeo ir dejando registro de mis aventuras en áreas de técnologia, desarrollo, linux, raspberry, dispositivos liberados, entre otras.
 
