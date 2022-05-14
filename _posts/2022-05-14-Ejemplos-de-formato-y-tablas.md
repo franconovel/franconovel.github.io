@@ -4,9 +4,7 @@ author: Supun Kavinda
 title: Styling with Markdown
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
-
-![800x600](https://i.picsum.photos/id/688/800/600.jpg)
+Este post proviene del repositorio original, lo he dejado ya que contiene ejemplos para darle formato a los posts asi como también el uso de tablas!
 
 ## Some great heading (h2)
 
