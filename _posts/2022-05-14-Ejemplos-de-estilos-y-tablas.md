@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Supun Kavinda
-title: Estilos y tablas
+title: Ejemplos de estilos y tablas
 ---
 
 Este post proviene del repositorio original, lo he dejado ya que contiene ejemplos para darle formato a los posts asi como también el uso de tablas!
